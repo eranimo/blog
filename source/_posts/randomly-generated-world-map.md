@@ -2,7 +2,6 @@
 title: Randomly generated world map
 alias: randomly-generated-world-map/index.html
 date: 1390782423444
-tags:
 ---
 When I first started designing a Sci-fi browser strategy game, I knew I wanted it to be grand in scope. I wanted players to be able to explore a large, randomly generated galaxy filled with stars, planets, moons, and asteroid belts. Generating all of this was easy, just pick star and planet attributes from a predetermined list and you're all set. Except in order to be immersive, I knew I'd need to generate the surfaces of these planets and moons.
 
