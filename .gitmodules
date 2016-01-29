@@ -1,3 +1,6 @@
 [submodule "apollo"]
     path = themes/apollo
     url = https://github.com/eranimo/blog-theme.git
+[submodule "deploy"]
+    path = .deploy_git
+    url = https://github.com/eranimo/eranimo.github.io.git

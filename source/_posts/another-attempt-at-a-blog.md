@@ -1,5 +1,6 @@
 ---
 title: Another attempt at a blog
+alias: another-attempt-at-a-blog
 date: 1390706057812
 ---
 This is my second attempt at a personal blog, let's see how it goes. I always have a lot to write about, lots of ideas and things to rant about -- but very little *drive* to actually write. Besides web development, I don't really contribute to the web in the normal sense. I'm always a lurker, but I'm trying to change that.

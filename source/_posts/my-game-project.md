@@ -1,5 +1,6 @@
 ---
 title: My game project
+alias: my-game-project
 date: 1390720664399
 tags:
 ---

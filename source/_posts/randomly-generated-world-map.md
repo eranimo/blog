@@ -1,5 +1,6 @@
 ---
 title: Randomly generated world map
+alias: randomly-generated-world-map/index.html
 date: 1390782423444
 tags:
 ---
